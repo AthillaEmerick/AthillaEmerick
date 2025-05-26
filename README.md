@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AthillaEmerick
-- 💻 Estudante de Ciencias da computação 
+- 💻 Estudante de Engenharia de Software
 - 🔢 Iniciando na area preogramação
 - 🔍 Proucurando aprendizado 
 
